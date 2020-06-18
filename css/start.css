@@ -1,0 +1,7 @@
+p {
+  background-color: red;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
